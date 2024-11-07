@@ -174,8 +174,7 @@ body{
 .down-bar a{
   color: #555;
   font-size: 1.4rem;
-  max-width: 168px;
-  min-width: 80px;
+  width: 8rem;
   height: 100%;
   text-align: center;
   align-content: center;
